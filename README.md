@@ -1,6 +1,6 @@
 # Snake and Apple Game
 <br>
-## Description
+<span style="font-size:larger;">Description</span>
 <br>
 This is a simple Snake and Apple game implemented using Python and Pygame. The player controls a snake that moves around the screen, eating apples to grow longer. The game ends if the snake collides with itself.
 
